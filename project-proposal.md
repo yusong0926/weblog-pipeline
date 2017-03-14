@@ -1,4 +1,4 @@
-# WebLog-Pipleline Propsal 
+# WebLog-Pipeline Proposal
 
 
 ## Objective 
